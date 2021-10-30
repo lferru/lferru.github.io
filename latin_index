@@ -1,0 +1,37 @@
+<!DOCTYPE HTML>
+<html>
+<style>
+  body { background-color : lavender }
+</style>
+<link rel="stylesheet" type="text/css" href="style.css">
+<body>
+  <table width=100%>
+    <tbody>
+      <tr>
+        <td width="225" align="left">
+          <img alt="" src="pics/louis.jpg" width="225" height="225" border="5">
+        </td>
+        <td align="left">
+          <h1 style="text-align:left">Aloysius Ferrufínus</h1>
+          <ul>
+            <li>
+              Īnscrīptiō ēlectrōnica:
+              <a href="mailto: lferrufi@gmu.edu">lferrufi@gmu.edu</a>
+            </li>
+            <li>
+              <a href="https://github.com/lferru">GitHub</a>
+            </li>
+            <li>
+              <a href="https://www.linkedin.com/in/luis-ferrufino-aa3741219/">LinkedIn</a>
+            </li>
+          </ul>
+        </td>
+      </tr>  
+    </tbody>
+  </table>
+  <br>
+  <br>
+  Vir Virginiam habitāns sum. Deum patriamque amō!
+</body>
+
+</html>
